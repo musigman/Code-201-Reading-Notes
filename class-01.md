@@ -1,6 +1,5 @@
-# Reading Overview
 ## Structure
-
+![Structure](images/structure.png)
 Okay time for Code 201, first I read about HTML structure, which are the bones that a website is built upon. 
 
 **Chapter 1 addresses these points:**
@@ -12,6 +11,7 @@ After reading I thought about screen reader technology and how little I know abo
 
 ### Structure and Formatting Headings
 **HTML** uses what are called elements to create the structure of a web page. **Elements** are made up of opening and closing tags and what goes in between them.
+# Reading Overview
 ### Head Element
 Contains information about the page including title and link to a .CSS file.
 
@@ -22,6 +22,7 @@ I really enjoy how Jon Duckett presents the information in this book. He clearly
 
 
 # Extra Markup
+![Markup](images/markup.png)
 I must admit having looked at code for many years but not fully understood much of it, I really apprectiate the simplified doctype declaration of HTML 5.
 
 Relating to CSS, ID and Class attributes have been confusing to me and hard to remember when I'm not doing web design all the time.
@@ -49,6 +50,7 @@ Is great to embed a google map into.
 This tage tells the browser that no scrollbars will be visible with the iframe.
 
 # HTML 5 Layout
+![Structure](images/layout.png)
 I'm actually excited about the layout elements! The labels have sure made it easier to understand.
 - Header
 - Nav
@@ -59,20 +61,22 @@ I'm actually excited about the layout elements! The labels have sure made it eas
 - Footer
 
 **Header groups**
+And then there are Fig captions
 Multiple heading elements can be grouped as one heading.
 
 **Figure Elements**
 Example usages include housing:
 - Images
 - Videos
+- Code Samples
 - Graphs
 - Diagrams
-- Code Samples
 
-And then there are Fig captions
 that go with figures. The tag allows you to create captions.
 
 # Process and Design
+
+![Process and Design](images/web-process.png)
 
 This reading asks the questions:
 
@@ -102,6 +106,7 @@ The order in which your eyes perceive what they see.
 Prioritizing and arranging content:
 
 # Javascript Reading
+![Structure](images/interaction.png)
 Javascript makes pages more interactive.
 
 Script is a series of instructions for the browser. In designing Javascript code You first must state your goal followed by breaking down the goal into a series of tasks.
