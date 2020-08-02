@@ -2,7 +2,7 @@
 # Table of Contents 
 ## Writings by Keith Musig
 
-1. [Class 01](class-01.md)
+1. [Class 01](https://musigman.github.io/code-201-reading-notes/class-01.html)
 1. [2](https://github.com/musigman/code-201-reading-notes/)
 1. [3](https://github.com/musigman/code-201-reading-notes/)
 1. [4](https://github.com/musigman/code-201-reading-notes/)
