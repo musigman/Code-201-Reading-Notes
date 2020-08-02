@@ -1,5 +1,6 @@
 ## Structure
 ![Structure](images/structure.png)
+
 Okay time for Code 201, first I read about HTML structure, which are the bones that a website is built upon. 
 
 **Chapter 1 addresses these points:**
@@ -23,6 +24,7 @@ I really enjoy how Jon Duckett presents the information in this book. He clearly
 
 # Extra Markup
 ![Markup](images/markup.png)
+
 I must admit having looked at code for many years but not fully understood much of it, I really apprectiate the simplified doctype declaration of HTML 5.
 
 Relating to CSS, ID and Class attributes have been confusing to me and hard to remember when I'm not doing web design all the time.
@@ -51,6 +53,7 @@ This tage tells the browser that no scrollbars will be visible with the iframe.
 
 # HTML 5 Layout
 ![Structure](images/layout.png)
+
 I'm actually excited about the layout elements! The labels have sure made it easier to understand.
 - Header
 - Nav
