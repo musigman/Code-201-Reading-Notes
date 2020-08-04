@@ -1,4 +1,5 @@
-# Text
+# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instruction
+## Text
 When creating a web page, you add tags known as markups to the content of the page. Tags provide meaning and allow browsers to show appropriate structure for the page.
 
 ## Structural Markup
