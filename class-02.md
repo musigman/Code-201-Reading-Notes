@@ -34,13 +34,12 @@ A CSS rule contains two parts: **A selector** and a **declaration**. The selecto
 
 A best practice of web design says that CSS files should be seperate from the HTML file and is linked from HTML code so the styles are recognized by the HTML document. While .css styles can be included in an HTML file using style tags, having a separate style sheet gives other pages of the web site consistent styling. 
 
-**CSS 3** is the most current version and handles a variety of color formats including: *RGB, Hex Code, RGBA and HSLA.* The latter 2 options on this list are my favorite because it gives the designer opacity options.
+**CSS 3** is the most current version and handles a variety of color formats including: **RGB, Hex Code, RGBA and HSLA.** The latter 2 options on this list are my favorite because it gives the designer opacity options.
 
 # Basic Javascript instructions
 Each individual series of instructions in Javascript is known as a **statement**. Each statement begins on a new line. 
 
- ## Variables
- A variable is a line of code that holds data. It is made up of 'var' plus the 'variable name'. Once you have created a variable it must have a value assigned to it. There are 3 types of variable data that include: 
+ A **variable** is a line of code that holds data. It is made up of 'var' plus the 'variable name'. Once you have created a variable it must have a value assigned to it. There are 3 types of variable data that include: 
 - Numeric Data: Numbers
 - String Data: Letters
 - Boolean: True/False Statements
