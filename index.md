@@ -5,7 +5,7 @@
 1. [Class 01](https://musigman.github.io/code-201-reading-notes/class-01.html)
 1. [Class 02](https://musigman.github.io/code-201-reading-notes/class-02.html)
 1. [Class 03](https://musigman.github.io/code-201-reading-notes/class-03.html)
-1. [4](https://github.com/musigman/code-201-reading-notes/)
+1. [Class 04](https://musigman.github.io/code-201-reading-notes/class-04.html)
 1. [5](https://github.com/musigman/code-201-reading-notes/)
 
 1. [6](https://github.com/musigman/code-201-reading-notes/)
