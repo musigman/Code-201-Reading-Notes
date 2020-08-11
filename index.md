@@ -9,16 +9,13 @@
 1. [Class 05](https://musigman.github.io/code-201-reading-notes/class-05.html)
 
 1. [Class 06](https://musigman.github.io/code-201-reading-notes/class-06.html)
-1. [7](https://github.com/musigman/code-201-reading-notes/)
-1. [8](https://github.com/musigman/code-201-reading-notes/)
-1. [9](https://github.com/musigman/code-201-reading-notes/)
-1. [10](https://github.com/musigman/code-201-reading-notes/)
+1. [Class 07](https://musigman.github.io/code-201-reading-notes/class-07.html)
+1. [Class 08](https://musigman.github.io/code-201-reading-notes/class-08.html)
+1. [Class 09](https://musigman.github.io/code-201-reading-notes/class-09.html)
+1. [Class 10](https://musigman.github.io/code-201-reading-notes/class-10.html)
 
-1. [11](https://github.com/musigman/code-201-reading-notes/)
-1. [12](https://github.com/musigman/code-201-reading-notes/)
-1. [13](https://github.com/musigman/code-201-reading-notes/)
-1. [14](https://github.com/musigman/code-201-reading-notes/)
-1. [15](https://github.com/musigman/code-201-reading-notes/)
-
-
-
+1. [Class 11](https://musigman.github.io/code-201-reading-notes/class-11.html)
+1. [Class 12](https://musigman.github.io/code-201-reading-notes/class-12.html)
+1. [Class 13](https://musigman.github.io/code-201-reading-notes/class-13.html)
+1. [Class 14](https://musigman.github.io/code-201-reading-notes/class-14.html)
+1. [Class 15](https://musigman.github.io/code-201-reading-notes/class-15.html)
