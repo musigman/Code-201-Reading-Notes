@@ -35,3 +35,5 @@ the media your watching or listening to.
 The API is created in HTML and styled in CSS. It gives you control in playing, pausing and stopping the video. The API also
 gives control with rewind and fast forward too.
 
+[<== Back to Table of Contents](index.md)
+
