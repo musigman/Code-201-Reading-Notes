@@ -1,4 +1,4 @@
-## Reading Day: 11
+## Reading Day: 12
 # Chart.js, Canvas
 Chart.js is a JavaScript plugin that uses HTML5's canvas element to draw the graph onto the page. **It's a plugin that makes using bar charts, line charts, pie charts easy.** The reading states 'incredibly easy' but I'll be the judge of that when I use it. Javascript code is included in this reading. I cloned the repo so I could have the files. The demo includes 3 different charts created with vector based graphics. Wow, I hope it is as straight forward as it claims to be.
 
@@ -9,7 +9,7 @@ Canvas allows you to create shapes, draw paths, and render them on the screen. I
 ## Applying Styles and Colors to Canvas
 fillStyle = color: is used when filling shapes. strokeStyle = color: Sets the style for shapes' outlines. The next example caught my attention using strokeStyle. The example used two variables i and j to generate a unique RGB color for each square, and only modify the red and green values. The result looked like a color palette.
 
-![Circles](images/Canvas-fillstyle.jpg)
+![Gradient](images/canvas-fillstyle.jpg)
 
 The canvas color tools are very powerful. I liked the **arc method** to draw circles and the transparency and alpha channel tools. Getting a handle on designing this way seems far away. Being a visual artist I'm used to tools to select from. The obvious example is photoshop which I've worked with for over 20 years. I would love to use these new tools that seem very foreign right now. But then the first time I opened photoshop was a new experience.
 
