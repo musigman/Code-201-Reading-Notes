@@ -17,5 +17,6 @@
 1. [Class 11](https://musigman.github.io/code-201-reading-notes/class-11.html)
 1. [Class 12](https://musigman.github.io/code-201-reading-notes/class-12.html)
 1. [Class 13](https://musigman.github.io/code-201-reading-notes/class-13.html)
-1. [Class 14](https://musigman.github.io/code-201-reading-notes/class-14.html)
+1. [Class 14a](https://musigman.github.io/code-201-reading-notes/class-14.html)
+1. [Class 14b](https://musigman.github.io/code-201-reading-notes/class-14b.html)
 1. [Class 15](https://musigman.github.io/code-201-reading-notes/class-15.html)
